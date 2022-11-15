@@ -6,8 +6,6 @@ An Application used to share and find resources posted by college students among
 ## Project Status
 Running. Users can signup/login through homepage and choose their likeable branches and courses then find and share resources. Users can change their Profile details in profile section (Coloured icon in Navbar) and can also see their Posted, liked posts and Also their subscribed courses. 
 
-## [Backend Repository](https://github.com/sahilss1499/resourcified-backend)
-
 ## Installation and Setup Instructions
 
 
